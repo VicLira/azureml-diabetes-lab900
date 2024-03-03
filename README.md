@@ -77,3 +77,7 @@ Para criar um trabalho de Automated ML com base no conjunto de dados fornecido, 
 Após revisar todas as configurações, submeta o trabalho de Automated ML para iniciar o processo de treinamento.
 
 Certifique-se de adaptar as configurações e os detalhes conforme necessário para atender aos requisitos específicos do conjunto de dados e aos objetivos do projeto de previsão de diabetes.
+
+### Resultados:
+
+![Resultados Da IA]([https://github.com/seu-usuario/seu-repositorio/nome-da-imagem.jpg](https://raw.githubusercontent.com/VicLira/azureml-diabetes-lab900/main/resultados.png)https://raw.githubusercontent.com/VicLira/azureml-diabetes-lab900/main/resultados.png)
