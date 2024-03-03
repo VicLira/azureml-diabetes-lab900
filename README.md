@@ -80,4 +80,4 @@ Certifique-se de adaptar as configurações e os detalhes conforme necessário p
 
 ### Resultados:
 
-![Resultados Da IA]([https://github.com/seu-usuario/seu-repositorio/nome-da-imagem.jpg](https://raw.githubusercontent.com/VicLira/azureml-diabetes-lab900/main/resultados.png)https://raw.githubusercontent.com/VicLira/azureml-diabetes-lab900/main/resultados.png)
+![Resultados Da ](https://raw.githubusercontent.com/VicLira/azureml-diabetes-lab900/main/resultados.png))
